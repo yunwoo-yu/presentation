@@ -1,0 +1,21 @@
+{
+  "name": "frontend-test-study",
+  "version": "1.0.0",
+  "description": "프론트엔드 테스트 학습용 프로젝트",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [
+    "test",
+    "frontend",
+    "javascript",
+    "jest"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "jest": "^30.0.0"
+  }
+}
